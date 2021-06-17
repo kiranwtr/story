@@ -1,2 +1,4 @@
 #this is the file for ignoring or hiding files from being uploded to git & git repo
 story4.txt
+.gitignore
+
